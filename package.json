@@ -1,0 +1,23 @@
+{
+  "name": "boot_102216_expworks",
+  "version": "1.0.0",
+  "description": "Learn Express.js from the author NodeProgram.com",
+  "main": "1-helloworld.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ge01/boot_102216_expworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ge01/boot_102216_expworks/issues"
+  },
+  "homepage": "https://github.com/ge01/boot_102216_expworks#readme"
+}
