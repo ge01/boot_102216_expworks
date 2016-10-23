@@ -4,7 +4,9 @@
   "description": "Learn Express.js from the author NodeProgram.com",
   "main": "1-helloworld.js",
   "dependencies": {
-    "express": "^4.11.2"
+    "body-parser": "^1.15.2",
+    "express": "^4.11.2",
+    "jade": "^1.11.0"
   },
   "devDependencies": {},
   "scripts": {
